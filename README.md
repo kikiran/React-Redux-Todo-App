@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-##Demo of Todo APP
+## Demo of Todo APP
 
 ![todoapp](https://user-images.githubusercontent.com/59505949/112724577-0a61f880-8f3a-11eb-8e07-f0642d04fa42.gif)
 
